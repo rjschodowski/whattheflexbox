@@ -58,7 +58,6 @@ a {
 .pricing-grid {
   max-width:750px;
   margin: 0 auto;
-  border: 1px solid red;
   display: flex;
   align-items: stretch;  /*You can also do align-items: center; if you want to center each item instead*/
 }
